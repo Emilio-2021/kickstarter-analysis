@@ -23,4 +23,4 @@ Conclusions:
 thank you Louise for givin us the opportunity to help
 
 Emilio Caraballo Castro
-Vanderbilt University Bootcamo Student
+Vanderbilt University Bootcamp Student
