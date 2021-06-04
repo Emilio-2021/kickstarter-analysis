@@ -1,26 +1,25 @@
-# An Analysis of Kickstarter Campaigns.
-Performing analysis on Kickstarter data to uncover trends
-Vanderbilt University Data Analytics and Visualization Bootcamp, jun 2021
+# Kickstarting with Excel
 
-Objective: Help Louise to create a campain for her play "Fever"
+## Overview of Project
+	Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals.
+### Purpose
+	This challenges will provide an opportunity for me to build on the skills that I have learned in the module
+## Analysis and Challenges
 
-Findings:
--Failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns. 
--Louise is asking for more than twice the average successful Kickstarter goal, so this isn't great news for her campaign. 
--The mean campaign goal is around £4,000. 
--Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
--May is a good Month to start a crowdfounding campain.
--The theater crowdfounding campains fare well in comparison with other type of campains.
+### Analysis of Outcomes Based on Launch Date
+	The instructions were very clear practically and an straight forward process, I was able to refresh what I learned previously and use sorting on the Outcomes field
+### Analysis of Outcomes Based on Goals
+	A new function was introduced here to fulfill this challenge, the criteria was not working for me in the way the instructions present them so I create three hidden fields with the required criteria and one visible field using the "concatenate" to be able to make the graphic chart the one expected
+### Challenges and Difficulties Encountered
+	I made use of the literature for excel to succeed on the second challenge
+## Results
 
-
-Conclusions:
--After an exaustive analysis of the Kickstarter crowdfounding data at hand with the help of pivot tables, graphic charts and statistics we arrive to the conclusion that Louise should try to get her play produced for less than £4,000. 
-
--The following graphic chart shows a representation of Goals and Pledges that sustain the conclusion we arrived to:
-
-![box and whisker Analysis plot](https://user-images.githubusercontent.com/16723095/120856487-95b4c700-c545-11eb-85e4-c7cb3434b6c8.png)
-
-thank you Louise for givin us the opportunity to help
-
-Emilio Caraballo Castro
-Vanderbilt University Bootcamp Student
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+	1-The projects created on May have a better opportunity of success
+	2-December is not a good month to start a crowdfounding
+- What can you conclude about the Outcomes based on Goals?
+	Projects with a lower budget have more possibilities to get fulfilled
+- What are some limitations of this dataset?
+	At the moment I dont have an opinion about what might be considered a dataset limitation 
+- What are some other possible tables and/or graphs that we could create?
+	The box and whisker plot is a nice graph to have, it gives a great insight about the Outliners 
