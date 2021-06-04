@@ -8,8 +8,12 @@
 
 ### Analysis of Outcomes Based on Launch Date
 	The instructions were very clear practically and an straight forward process, I was able to refresh what I learned previously and use sorting on the Outcomes field
+	![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/16723095/120870953-0072fc00-c560-11eb-852a-70ff2c8bdec7.png)
+
 ### Analysis of Outcomes Based on Goals
 	A new function was introduced here to fulfill this challenge, the criteria was not working for me in the way the instructions present them so I create three hidden fields with the required criteria and one visible field using the "concatenate" to be able to make the graphic chart the one expected
+	![Outcomes_vs_Goals](https://user-images.githubusercontent.com/16723095/120870969-08cb3700-c560-11eb-9018-ac5df675a44a.png)
+
 ### Challenges and Difficulties Encountered
 	I made use of the literature for excel to succeed on the second challenge
 ## Results
