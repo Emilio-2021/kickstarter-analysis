@@ -16,7 +16,7 @@ A new function was introduced here to fulfill this challenge, the criteria was n
 I made use of the literature for excel to succeed on the second challenge
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date?  
 1-The projects created on May have a better opportunity of success  
 2-December is not a good month to start a crowdfounding  
 - What can you conclude about the Outcomes based on Goals?
