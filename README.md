@@ -17,8 +17,8 @@ I made use of the literature for excel to succeed on the second challenge
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
- 1-The projects created on May have a better opportunity of success
- 2-December is not a good month to start a crowdfounding
+# 1-The projects created on May have a better opportunity of success
+# 2-December is not a good month to start a crowdfounding
 - What can you conclude about the Outcomes based on Goals?
  Projects with a lower budget have more possibilities to get fulfilled
 - What are some limitations of this dataset?
