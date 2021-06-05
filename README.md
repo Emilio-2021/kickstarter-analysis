@@ -19,9 +19,9 @@ I made use of the literature for excel to succeed on the second challenge
 - What are two conclusions you can draw about the Outcomes based on Launch Date?  
 1-The projects created on May have a better opportunity of success  
 2-December is not a good month to start a crowdfounding  
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals?  
  Projects with a lower budget have more possibilities to get fulfilled
-- What are some limitations of this dataset?
+- What are some limitations of this dataset?  
  At the moment I dont have an opinion about what might be considered a dataset limitation 
-- What are some other possible tables and/or graphs that we could create?
- The box and whisker plot is a nice graph to have, it gives a great insight about the Outliners 
+- What are some other possible tables and/or graphs that we could create?  
+ The box and whisker plot is a nice graph to have, it gives a great insight about the Outliners besides other infos
